@@ -1,12 +1,13 @@
 <div align="center">
+
 ![WeskerPRO Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WeskerPRO&fontSize=70&animation=fadeIn&fontAlignY=35)
-  
+
 # WeskerPRO
 ### Systems Architect • AI Researcher • Data Scientist
 *5+ years of engineering experience across the full software lifecycle*
 
 ---
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shakhzod-bakhodirov-ab3345222/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:yulchiebahodir@gmail.com)
 
