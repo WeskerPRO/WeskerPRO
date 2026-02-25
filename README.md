@@ -2,7 +2,6 @@
 
 ![WeskerPRO Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WeskerPRO&fontSize=70&animation=fadeIn&fontAlignY=35)
 
-# WeskerPRO
 ### Systems Architect • AI Researcher • Data Scientist
 *5+ years of engineering experience across the full software lifecycle*
 
@@ -47,7 +46,8 @@
 
 ### 📊 Engineering Metrics
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WeskerPRO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeskerPRO&layout=compact&theme=tokyonight&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WeskerPRO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WeskerPRO&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
+---
