@@ -1,4 +1,16 @@
-# ⚡ Data Scientist | Software Architect | AI Engineer
+<div align="center">
+
+# WeskerPRO
+### Systems Architect • AI Researcher • Data Scientist
+*9+ years of engineering experience across the full software lifecycle*
+
+---
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YOUR_PROFILE_NAME/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-green?style=flat-square&logo=google-chrome)](https://YOUR_PORTFOLIO_LINK)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:your-email@gmail.com)
+
+</div>
 
 ---
 
@@ -39,6 +51,3 @@
 </p>
 
 ---
-
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shakhzod-bakhodirov-ab3345222)
