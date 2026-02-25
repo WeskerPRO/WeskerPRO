@@ -1,4 +1,4 @@
-**Data Scientist | Software Architect | AI Engineer**
+# ⚡ **Data Scientist | Software Architect | AI Engineer**
 
 ---
 
