@@ -32,5 +32,13 @@
 
 ---
 
+### 📊 Engineering Metrics
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WeskerPRO&show_icons=true&type=svg&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeskerPRO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shakhzod-bakhodirov-ab3345222)
