@@ -1,4 +1,4 @@
-# ⚡ **Data Scientist | Software Architect | AI Engineer**
+# ⚡ Data Scientist | Software Architect | AI Engineer
 
 ---
 
@@ -34,8 +34,8 @@
 
 ### 📊 Engineering Metrics
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WeskerPRO&show_icons=true&type=svg&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeskerPRO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WeskerPRO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeskerPRO&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 ---
