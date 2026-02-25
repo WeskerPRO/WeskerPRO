@@ -47,7 +47,5 @@
 ### 📊 Engineering Metrics
 <p align="left">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WeskerPRO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WeskerPRO&layout=compact&theme=tokyonight&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WeskerPRO&layout=compact&theme=tokyonight&langs_count=8&include_all_commits=true&count_private=true&hide_forks=false" />
 </p>
-
----
