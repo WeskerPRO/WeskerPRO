@@ -44,5 +44,7 @@
 
 ---
 
-### 🕒 Weekly Focus
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=WeskerPRO&layout=compact&theme=tokyonight&hide_border=true" />
+### 🏆 Engineering Milestones
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=WeskerPRO&theme=tokyonight&no-bg=true&margin-w=15&column=4" />
+</p>
