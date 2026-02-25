@@ -1,10 +1,9 @@
-![WeskerPRO Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Building%20the%20Future%20with%20Code&fontSize=40)
-
 <div align="center">
-
+![WeskerPRO Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WeskerPRO&fontSize=70&animation=fadeIn&fontAlignY=35)
+  
 # WeskerPRO
 ### Systems Architect • AI Researcher • Data Scientist
-*9+ years of engineering experience across the full software lifecycle*
+*5+ years of engineering experience across the full software lifecycle*
 
 ---
   
@@ -51,4 +50,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeskerPRO&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
----
