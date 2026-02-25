@@ -44,7 +44,5 @@
 
 ---
 
-### 🏆 Engineering Milestones
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=WeskerPRO&theme=tokyonight&no-bg=true&margin-w=15&column=4" />
-</p>
+### 🗓️ Contribution Graph
+![WeskerPRO's Activity](https://github-readme-activity-graph.vercel.app/graph?username=WeskerPRO&theme=tokyonight&hide_border=true&area=true)
