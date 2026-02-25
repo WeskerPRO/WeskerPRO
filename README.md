@@ -44,5 +44,5 @@
 
 ---
 
-### 📈 Activity Pulse
-![WeskerPRO Streak](https://github-readme-streak-stats.herokuapp.com/?user=WeskerPRO&theme=tokyonight&hide_border=true)
+### 🕒 Weekly Focus
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=WeskerPRO&layout=compact&theme=tokyonight&hide_border=true" />
