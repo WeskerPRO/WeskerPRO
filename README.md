@@ -14,20 +14,27 @@
 
 ---
 
+### 🚀 Professional Synopsis
+* 🎓 **M.Sc. Candidate** @ University of Göttingen (Data Science)
+* 🇮🇹 **Double Degree Alumnus** (Politecnico di Torino & TTPU) (Computer Engineering)
+* 💻 **Software Architect:** Specialized in managing massive codebases (80k+ lines)
+* 🫁 **AI Researcher:** Focused on Deep Learning & Medical Imaging
+
+---
+
+### 🎖️ Professional Milestones
+![Experience](https://img.shields.io/badge/Experience-9%2B_Years-3C7DD9?style=for-the-badge&logo=expertsexchange&logoColor=white)
+![Education](https://img.shields.io/badge/M.Sc._Candidate-Data_Science-success?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-AI_%26_Architecture-blueviolet?style=for-the-badge&logo=target&logoColor=white)
+
+---
+
 ### 📈 Code Velocity & Engineering Pulse
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WeskerPRO/WeskerPRO/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WeskerPRO/WeskerPRO/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WeskerPRO/WeskerPRO/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-### 🚀 The Brief
-* 🎓 **M.Sc. Candidate** @ University of Göttingen (Data Science)
-* 🇮🇹 **Double Degree Alumnus** (Politecnico di Torino & TTPU) (Computer Engineering)
-* 💻 **Software Architect:** Specialized in managing massive codebases (80k+ lines)
-* 🫁 **AI Researcher:** Focused on Deep Learning & Medical Imaging
 
 ---
 
@@ -43,8 +50,3 @@
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
 
 ---
-
-### 🎖️ Professional Milestones
-![Experience](https://img.shields.io/badge/Experience-9%2B_Years-3C7DD9?style=for-the-badge&logo=expertsexchange&logoColor=white)
-![Education](https://img.shields.io/badge/M.Sc._Candidate-Data_Science-success?style=for-the-badge&logo=google-scholar&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-AI_%26_Architecture-blueviolet?style=for-the-badge&logo=architecture&logoColor=white)
