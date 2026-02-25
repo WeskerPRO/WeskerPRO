@@ -15,10 +15,10 @@
 ---
 
 ### 🚀 Professional Synopsis
-* 🎓 **M.Sc. Candidate** @ University of Göttingen (Data Science)
-* 🇮🇹 **Double Degree Alumnus** (Politecnico di Torino & TTPU) (Computer Engineering)
-* 💻 **Software Architect:** Specialized in managing massive codebases (80k+ lines)
-* 🫁 **AI Researcher:** Focused on Deep Learning & Medical Imaging
+* 🎓 **M.Sc. Candidate in Data Science** | *University of Göttingen*
+* 🇮🇹 **Double Degree Alumnus** | *Politecnico di Torino & TTPU* (Computer Engineering)
+* 🏗️ **Principal Architect:** 5+ years experience specializing in enterprise-scale systems and the maintenance of high-complexity codebases (**80k+ LOC**).
+* 🧠 **AI Research Lead:** Focused on the intersection of Deep Learning and Medical Imaging, developing high-precision computer vision diagnostics.
 
 ---
 
