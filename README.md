@@ -1,9 +1,8 @@
-# ⚡ WeskerPRO 
 **Data Scientist | Software Architect | AI Engineer**
 
 ---
 
-### 🛠️ 9+ Years of Engineering | Contribution Activity
+### 📈 Code Velocity & Engineering Pulse
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WeskerPRO/WeskerPRO/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WeskerPRO/WeskerPRO/output/github-contribution-grid-snake.svg">
@@ -14,7 +13,7 @@
 
 ### 🚀 The Brief
 * 🎓 **M.Sc. Candidate** @ University of Göttingen (Data Science)
-* 🇮🇹 **Double Degree Alumnus** (Politecnico di Torino & TTPU)
+* 🇮🇹 **Double Degree Alumnus** (Politecnico di Torino & TTPU) (Computer Engineering)
 * 💻 **Software Architect:** Specialized in managing massive codebases (80k+ lines)
 * 🫁 **AI Researcher:** Focused on Deep Learning & Medical Imaging
 
