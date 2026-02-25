@@ -8,7 +8,7 @@ on:
     branches:
     - main
 
-# 🛡️ THIS SECTION BYPASSES THE SETTINGS MENU
+# 🛡️ THIS IS THE FIX: It forces Write access for the robot
 permissions:
   contents: write
 
