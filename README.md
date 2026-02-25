@@ -23,6 +23,8 @@
 
 ---
 
+
+
 ### 🚀 The Brief
 * 🎓 **M.Sc. Candidate** @ University of Göttingen (Data Science)
 * 🇮🇹 **Double Degree Alumnus** (Politecnico di Torino & TTPU) (Computer Engineering)
@@ -47,5 +49,9 @@
 ### 📊 Engineering Metrics
 <p align="left">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WeskerPRO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WeskerPRO&layout=compact&theme=tokyonight&langs_count=8&include_all_commits=true&count_private=true&hide_forks=false" />
 </p>
+
+---
+
+### 🛠️ Technical Proficiencies
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,cpp,java,mysql,azure,docker,git,html,css,bootstrap&theme=dark)](https://skillicons.dev)
