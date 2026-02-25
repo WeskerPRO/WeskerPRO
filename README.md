@@ -44,7 +44,5 @@
 
 ---
 
-### 📊 Engineering Metrics
-<p align="left">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WeskerPRO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
+### 📈 Activity Pulse
+![WeskerPRO Streak](https://github-readme-streak-stats.herokuapp.com/?user=WeskerPRO&theme=tokyonight&hide_border=true)
