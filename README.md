@@ -1,3 +1,5 @@
+![WeskerPRO Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Building%20the%20Future%20with%20Code&fontSize=40)
+
 <div align="center">
 
 # WeskerPRO
@@ -6,9 +8,8 @@
 
 ---
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YOUR_PROFILE_NAME/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-green?style=flat-square&logo=google-chrome)](https://YOUR_PORTFOLIO_LINK)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shakhzod-bakhodirov-ab3345222/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:yulchiebahodir@gmail.com)
 
 </div>
 
