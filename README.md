@@ -23,8 +23,6 @@
 
 ---
 
-
-
 ### 🚀 The Brief
 * 🎓 **M.Sc. Candidate** @ University of Göttingen (Data Science)
 * 🇮🇹 **Double Degree Alumnus** (Politecnico di Torino & TTPU) (Computer Engineering)
@@ -36,13 +34,13 @@
 ### 🛠️ Core Tech Stack
 
 #### 🧠 Artificial Intelligence & Data Science
-[![AI Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,numpy,pandas&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,numpy,pandas&theme=dark" />
 
 #### 💻 Systems & Software Engineering
-[![Systems Skills](https://skillicons.dev/icons?i=cpp,java,mysql,postgres,azure,docker,git,linux&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=cpp,java,mysql,postgres,azure,docker,git,linux&theme=dark" />
 
 #### 🌐 Web & Foundational
-[![Web Skills](https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
 
 ---
 
