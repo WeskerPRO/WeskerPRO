@@ -23,7 +23,7 @@
 ---
 
 ### 🎖️ Professional Milestones
-![Experience](https://img.shields.io/badge/Experience-9%2B_Years-3C7DD9?style=for-the-badge&logo=expertsexchange&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-5+%2B_Years-3C7DD9?style=for-the-badge&logo=expertsexchange&logoColor=white)
 ![Education](https://img.shields.io/badge/M.Sc._Candidate-Data_Science-success?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-AI_%26_Architecture-blueviolet?style=for-the-badge&logo=target&logoColor=white)
 
